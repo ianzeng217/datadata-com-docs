@@ -14,9 +14,9 @@ const config: Config = {
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.svg",
   url: "https://datadata-team.github.io",
-  baseUrl: "/datadata-docs/",
+  baseUrl: "/datadata-com-docs/",
   organizationName: "datadata-team",
-  projectName: "datadata-docs",
+  projectName: "datadata-com-docs",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   i18n: {
@@ -39,7 +39,7 @@ const config: Config = {
       "@docusaurus/preset-classic",
       {
         docs: {
-          editUrl: "https://github.com/hungtcs/datadata-docs/tree/master/",
+          editUrl: "https://github.com/hungtcs/datadata-com-docs/tree/master/",
           sidebarPath: "./sidebars-docs.ts",
           routeBasePath: "docs",
           showLastUpdateTime: true,
